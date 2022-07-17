@@ -1,0 +1,19 @@
+#form {
+    width: 60%;
+    margin: 40px auto;
+    border: 1px solid black;
+    padding: 50px;
+}
+
+#formtitle {
+    margin-bottom: 20px;
+}
+
+#registerlink, #loginlink {
+    margin-top: 20px;
+}
+
+#welcome {
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
